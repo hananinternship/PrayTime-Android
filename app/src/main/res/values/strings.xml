@@ -23,6 +23,19 @@
         <item quantity="one">@string/button_alarm_on</item>
         <item quantity="other">@string/button_alarm_off</item>
     </plurals>
+    <string-array name="countries_list">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Australia</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>England</item>
+        <item>Finland</item>
+        <item>India</item>
+        <item>Saudi Arabia</item>
+        <item>Saudi Arabia</item>
+        <item>Nepal</item>
+    </string-array>
 
     <!-- Configure app screen -->
     <string name="config_title">Please take a moment to configure the Salaat times to your requirements.</string>
